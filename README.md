@@ -181,3 +181,7 @@ rm -rf ~/.claude/skills/audio-notifications ~/.claude/skills/notify-while-thinki
 
 Then drop the two `Bash(afplay:*)` / `Bash(~/.claude/audio_notifications/play.sh:*)`
 entries from `permissions.allow` in `~/.claude/settings.json`.
+
+## License
+
+MIT — see [`LICENSE`](LICENSE).
