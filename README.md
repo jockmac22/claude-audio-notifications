@@ -182,6 +182,12 @@ rm -rf ~/.claude/skills/audio-notifications ~/.claude/skills/notify-while-thinki
 Then drop the two `Bash(afplay:*)` / `Bash(~/.claude/audio_notifications/play.sh:*)`
 entries from `permissions.allow` in `~/.claude/settings.json`.
 
+## AI assistance
+
+This project — the tone synthesis, the shell scripts, the skills and this
+README — was generated with the assistance of AI, using
+[Claude Code](https://claude.com/claude-code).
+
 ## License
 
 MIT — see [`LICENSE`](LICENSE).
